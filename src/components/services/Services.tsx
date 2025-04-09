@@ -24,7 +24,7 @@ export default function Services() {
     <div id='OurServices' className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
       <Image
         alt="Angio"
-        src="/angio.jpg"
+        src="/Angio.jpg"
         width={1000}
         height={1000}
         className="absolute inset-0 -z-10 size-full object-fill object-right md:object-center opacity-40"
