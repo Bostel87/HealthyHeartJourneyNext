@@ -65,11 +65,10 @@ export const Services = () => {
           </div>
           <div className="relative overflow-hidden pt-16">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
-              <Image
+              <img
                 alt="Angiography"
                 src="/angio.jpg"
-                width={2432}
-                height={1442}
+                
                 className="mb-[-12%] mt-[-12%] rounded-xl shadow-8xl ring-4 ring-white/10"
               />
               <div aria-hidden="true" className="relative">
