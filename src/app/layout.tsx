@@ -100,13 +100,6 @@ export const metadata: Metadata = {
       "Your Heart, Our Journey – Premium Medical Travel for Cardiac Care",
     url: "https://healthyheartjourney.com",
     siteName: "Healthy Heart Journey",
-    images: [
-      {
-        url: "https://healthyheartjourney.com/logo.png",
-        width: 800,
-        height: 600,
-      },
-    ],
     locale: "en_US",
     type: "website",
   },
