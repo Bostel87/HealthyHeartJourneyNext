@@ -6,9 +6,9 @@ import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
 import Link from "next/link";
 
 const navigation = [
-    { name: 'Why Choose Us?', href: '#WhyChooseUs' },
-    { name: 'Our Services', href: '#OurServices' },
-    { name: 'Testimonials', href: '#Testimonials' },
+    { name: 'Why Choose Us?', href: '/#WhyChooseUs' },
+    { name: 'Our Services', href: '/#OurServices' },
+    { name: 'Testimonials', href: '/#Testimonials' },
     { name: 'Services', href: '/services' },
     { name: 'About Us', href: '/about' },
   ]
