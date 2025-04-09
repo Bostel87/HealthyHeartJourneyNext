@@ -94,7 +94,7 @@ export const metadata: Metadata = {
       siteName: "Healthy Heart Journey",
       images: [
         {
-          url: "https://healthyheartjourney.com/logo.png",
+          url: "https://healthyheartjourney.com/Angio.png",
           width: 800,
           height: 600,
         },
