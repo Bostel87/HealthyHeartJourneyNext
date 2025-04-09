@@ -59,7 +59,7 @@ export const Services = () => {
               <Image
                 alt="Angiography"
                 src="/Angio.jpg"
-                width={1000}
+                width={1500}
                 height={1000}
                 className="mb-[-12%] mt-[-12%] rounded-xl shadow-8xl ring-4 ring-white/10"
               />
