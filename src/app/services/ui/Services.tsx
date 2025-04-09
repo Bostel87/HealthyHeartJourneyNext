@@ -1,13 +1,4 @@
-import {
-    ArrowPathIcon,
-    ChevronRightIcon,
-    CloudArrowUpIcon,
-    Cog6ToothIcon,
-    FingerPrintIcon,
-    LockClosedIcon,
-    ServerIcon,
-  } from '@heroicons/react/20/solid'
-import { BeakerIcon, CalendarDateRangeIcon, ClockIcon, HomeModernIcon, PaperAirplaneIcon, TruckIcon } from '@heroicons/react/24/outline';
+import { CalendarDateRangeIcon, ClockIcon, HomeModernIcon, PaperAirplaneIcon, TruckIcon } from '@heroicons/react/24/outline';
 import Image from 'next/image';
 
 
@@ -65,10 +56,11 @@ export const Services = () => {
           </div>
           <div className="relative overflow-hidden pt-16">
             <div className="mx-auto max-w-7xl px-6 lg:px-8">
-              <img
+              <Image
                 alt="Angiography"
-                src="/angio.jpg"
-                
+                src="/Angio.jpg"
+                width={1000}
+                height={1000}
                 className="mb-[-12%] mt-[-12%] rounded-xl shadow-8xl ring-4 ring-white/10"
               />
               <div aria-hidden="true" className="relative">
