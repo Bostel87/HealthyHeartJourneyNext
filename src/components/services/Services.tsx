@@ -1,4 +1,5 @@
 import { LifebuoyIcon, NewspaperIcon, PhoneIcon } from '@heroicons/react/20/solid'
+import Image from 'next/image'
 
 const cards = [
   {
@@ -21,9 +22,11 @@ const cards = [
 export default function Services() {
   return (
     <div id='OurServices' className="relative isolate overflow-hidden bg-gray-900 py-24 sm:py-32">
-      <img
-        alt=""
+      <Image
+        alt="Angio"
         src="/angio.jpg"
+        width={1000}
+        height={1000}
         className="absolute inset-0 -z-10 size-full object-fill object-right md:object-center opacity-40"
       />
       <div className="hidden sm:absolute sm:-top-10 sm:right-1/2 sm:-z-10 sm:mr-10 sm:block sm:transform-gpu sm:blur-3xl">

@@ -101,8 +101,8 @@ type FormInputs = {
 
 export default function Footer() {
   const [state, setState] = useState<string>();
-  const { register, handleSubmit, reset, formState: { errors } } = useForm<FormInputs>();
-  const router = useRouter();
+  const { register, handleSubmit, reset } = useForm<FormInputs>();
+ 
 
   const onSubmit: SubmitHandler<FormInputs> = async (data) => {
     setState('loading');

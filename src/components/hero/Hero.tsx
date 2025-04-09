@@ -1,7 +1,5 @@
 'use client'
 
-import { useState } from 'react'
-
 import { titleFont } from '@/config/fonts'
 import Image from 'next/image'
 
