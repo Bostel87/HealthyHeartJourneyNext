@@ -44,7 +44,7 @@ const navigation = {
     // },
     {
       name: 'Instagram',
-      href: '#',
+      href: 'https://www.instagram.com/healthyheartjourney.us?igsh=ZTFhMGxramVqZm81',
       icon: (props: any) => (
         <svg fill="currentColor" viewBox="0 0 24 24" {...props}>
           <path
@@ -169,8 +169,12 @@ export default function Footer() {
             </a>
           ))}
         </div>
-        <p className="mt-8 text-sm/6 text-[#615d99] md:order-1 md:mt-0">
+        <p className="mt-8 col-span-1 text-sm/6 text-[#615d99] md:order-1 md:mt-0">
           &copy; 2025 HealthyHeartJourney LLC, All rights reserved.
+        </p>
+        <p className="col-span-4 mt-8 text-sm/6 text-[#615d99] md:order-1 md:mt-0">
+        Disclaimer:<br/>
+        Healthy Heart Journey does not provide medical services or diagnoses directly. We act solely as a facilitator, connecting patients with certified healthcare providers and coordinating travel and logistical arrangements related to cardiovascular care. All medical procedures are performed by licensed professionals at accredited medical institutions.
         </p>
       </div>
       {/* </div> */}

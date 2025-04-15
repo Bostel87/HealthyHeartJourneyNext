@@ -50,7 +50,7 @@ export const Services = () => {
               Tailored Solutions for Your Heart Health Journey
               </p>
               <p className="mt-6 text-lg/8 text-[#615d99]">
-              Every heart is unique, and so is our approach. We provide customized treatment plans designed to meet your specific needs and lifestyle. From diagnosis to recovery, our team ensures you receive the care and attention your heart deserves every step of the way.
+              Personalized Coordination for Your Heart Health Journey Every heart is unique — and so is the journey toward better health. At Healthy Heart Journey, we collaborate with top medical professionals to help you access the best cardiovascular care, tailored to your individual needs. From your first inquiry to post-treatment recovery, we’re here to support and coordinate every step of the process so you can focus on healing, not logistics.
               </p>
             </div>
           </div>

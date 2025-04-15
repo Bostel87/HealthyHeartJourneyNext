@@ -51,7 +51,8 @@ export default function Services() {
         <div className="mx-auto max-w-2xl lg:mx-0">
           <h2 className="text-5xl font-semibold tracking-tight text-white sm:text-7xl">Our Services</h2>
           <p className="mt-8 text-pretty text-lg font-medium text-gray-300 sm:text-xl/8">
-          We offer a comprehensive range of cardiovascular treatments, from minimally invasive procedures to complex heart surgeries. Our expert team provides personalized care, advanced diagnostics, and state-of-the-art surgical solutions to ensure the best outcomes. Your heart health is our priority.
+          We specialize in coordinating access to a wide range of cardiovascular treatments — from minimally invasive procedures to complex heart surgeries — performed by trusted medical partners. Through our carefully selected network of specialists and accredited clinics, we help patients receive personalized care and cutting-edge treatment options.
+We manage all travel, accommodations, and post-treatment logistics so you can focus fully on your health and recovery.
           </p>
         </div>
         <div className="mx-auto mt-16 grid max-w-2xl grid-cols-1 gap-6 sm:mt-20 lg:mx-0 lg:max-w-none lg:grid-cols-3 lg:gap-8">

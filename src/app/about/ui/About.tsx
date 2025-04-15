@@ -5,7 +5,7 @@ export default function About() {
           <p className="text-base/7 font-semibold text-[#615d99]">Healthy Heart Journey</p>
           <h2 className="mt-2 text-5xl font-semibold tracking-tight text-[#b2294c] sm:text-7xl">Bridging Healthcare & Travel for a Heart-Healthy Future</h2>
           <p className="mt-8 text-pretty text-lg font-medium text-[#615d99] sm:text-xl/8">
-          Healthy Heart Journey is a premium medical travel service specializing in heart surgery and endovascular procedures. We connect patients with world-class heart specialists while ensuring smooth travel and comfortable recovery accommodations.
+          Healthy Heart Journey is a premium medical travel coordination service specializing in heart surgery and endovascular procedures. We connect patients with world-class cardiovascular specialists and provide full support with travel logistics, accommodations, and recovery planning — ensuring a seamless, stress-free experience every step of the way.
           </p>
         </div>
       </div>
