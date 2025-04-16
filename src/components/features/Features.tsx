@@ -72,7 +72,8 @@ export default function Features() {
           Why Choose Us?
           </h2>
           <p className="mt-6 text-lg/8 text-[#b2294c]">
-          Your heart deserves the best care. Our team of expert cardiovascular surgeons combines cutting-edge technology with compassionate treatment to ensure the highest level of care. With years of experience, state-of-the-art facilities, and a commitment to excellence, we provide personalized solutions for every patient. Trust us to safeguard your heart and your health.
+          Your heart deserves the best care.
+At Healthy Heart Journey, we connect you with expert cardiovascular surgeons who combine cutting-edge technology with compassionate treatment. Through our trusted medical partners and state-of-the-art facilities, we coordinate personalized care solutions tailored to your unique needs. Let us handle the details — so you can focus on your health with peace of mind.
           </p>
         </div>
         <div className="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-none">
