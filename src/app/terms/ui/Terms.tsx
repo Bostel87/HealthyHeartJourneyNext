@@ -2,7 +2,7 @@ export default function Terms() {
   return (
     <div className="bg-white px-6 py-24 sm:py-32 lg:px-8">
       <div className="mx-auto max-w-2xl text-center">
-        <p className="text-base/7 font-semibold text-[#615d99]">Terms of Service</p>
+        <p className="text-3xl font-semibold text-[#615d99]">Terms of Service</p>
         <p className="text-base/7 font-semibold text-[#615d99]">Effective Date: 1 April 2024 </p>
 
         <h2 className="mt-2 text-2xl font-semibold tracking-tight text-[#b2294c] sm:text-2xl">Introduction
@@ -13,10 +13,12 @@ export default function Terms() {
           By using Healthy Heart Journey, you acknowledge that you have read, understood, and agree to be legally bound by these Terms of Service, as well as any additional guidelines or rules referenced herein.
 
         </p>
+        <div>
         <p className="mt-8 text-pretty text-lg font-medium text-[#615d99] sm:text-xl/8 ">
           2. Description of Services
           Healthy Heart Journey offers:
-          <ol className="list-disc">
+          
+          <ul className="list-disc">
             <li>
               Medical Coordination: Appointment scheduling and confirmations with leading cardiac specialists.
             </li>
@@ -29,14 +31,17 @@ export default function Terms() {
             <li>
               Logistics Management: Comprehensive travel and documentation support.
             </li>
-          </ol>
+          </ul>
+          
         </p>
+        </div>
         <h2 className="mt-8 text-pretty text-lg font-medium text-[#615d99] sm:text-xl/8">Introduction
           Our services are provided solely as a convenience to facilitate your medical travel needs and do not constitute medical advice, diagnosis, or treatment. We act as an intermediary and do not guarantee any clinical outcome.
         </h2>
         <p className="mt-8 text-pretty text-lg font-medium text-[#615d99] sm:text-xl/8 ">
           3. User Responsibilities:
-          <ol className="list-disc">
+          
+          <ul className="list-disc">
             <li>
               You must provide accurate and complete information when using our services.
             </li>
@@ -46,7 +51,8 @@ export default function Terms() {
             <li>
               You agree to use the website and services only for lawful purposes and in a manner that does not infringe on the rights of others.
             </li>
-          </ol>
+          </ul>
+         
         </p>
         <p className="mt-8 text-pretty text-lg font-medium text-[#615d99] sm:text-xl/8">
           4. Limitation of Liability
