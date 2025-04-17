@@ -175,7 +175,7 @@ export default function Footer() {
         </p>
         <p className="col-span-4 mt-8 text-sm/6 text-[#615d99] md:order-1 md:mt-0">
         Disclaimer:<br/>
-        Healthy Heart Journey does not provide medical services or diagnoses directly. We act solely as a facilitator, connecting patients with certified healthcare providers and coordinating travel and logistical arrangements related to cardiovascular care. All medical procedures are performed by licensed professionals at accredited medical institutions. <Link href="medical-disclaimer " className="text-[#b2294c]">Read more...</Link> 
+        Healthy Heart Journey does not provide medical services or diagnoses directly. We act solely as a facilitator, connecting patients with certified healthcare providers and coordinating travel and logistical arrangements related to cardiovascular care. All medical procedures are performed by licensed professionals at accredited medical institutions. <Link href="medical-disclaimer " className="text-[#b2294c]">Read more...</Link> & <Link href="terms" className="text-[#b2294c]">Terms of service</Link>
         </p>
       </div>
       {/* </div> */}
