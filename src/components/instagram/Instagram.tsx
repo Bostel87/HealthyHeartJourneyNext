@@ -27,13 +27,25 @@ export default function Instagram() {
               </blockquote>
             </div>
             <div className="col-end-1 w-16 lg:row-span-4 lg:w-72">
-              <Image
+              {/* <Image
                 alt=""
                 src="/Testimonio.jpg"
                 className="rounded-xl bg-indigo-50 lg:rounded-3xl"
                 width={300}
                 height={300}
+              /> */}
+              {/* <iframe src="/TERRYCARTERHHJ_005.mp4" className="aspect-video"></iframe>
+               */}
+               <video width="320" height="240" controls>
+              <source src="/TERRYCARTERHHJ _005.mp4" type="video/mp4" />
+              <track
+                src="/TERRYCARTERHHJ _005.mp4"
+                kind="subtitles"
+                srcLang="en"
+                label="English"
               />
+                Your browser does not support the video tag.
+              </video>
             </div>
             <figcaption className="text-base lg:col-start-1 lg:row-start-3">
               <div className="font-semibold text-gray-900">Terry Carter</div>
